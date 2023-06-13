@@ -1,3 +1,4 @@
 #!/bin/bash
-chwn vincent:staff_hello ./*
+chwn vincent:staff./*
+
 
